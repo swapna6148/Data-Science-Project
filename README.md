@@ -1,4 +1,4 @@
-# Data-Science-ProjectHello Everyon
+# Data-Science-Project
 Program Description - In the current Program, we did webscrapping to scrape the reviews data of a particular product from a website using the python library BeautifulSoup.
 Web scraping (or data scraping) is a technique used to collect content and data from the internet and Beautiful Soup is a library that makes it easy to scrape information from web pages.
 Firstly we get the url of the reviews page of the particular product and assign it witha variable named 'url' and also an empty list 'reviewlist'. Now, we have defined a function 
